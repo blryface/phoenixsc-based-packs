@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [15, 30],
+    "description": {
+      "text": "Write your description here.",
+      "color": "color",
+      "font": "font",
+      "bold": false,
+      "italic": false,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false
+    }
+  }
+}
